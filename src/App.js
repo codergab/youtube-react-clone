@@ -13,7 +13,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    this.handleSubmit('THE SURGEONS - Twyse & Klinton')
+    this.handleSubmit('Javascript, The Weird Part')
   }
 
   handleSubmit = async searchTerm => {
