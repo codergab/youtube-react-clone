@@ -1,6 +1,6 @@
 ## Demo
 
-Click [https://youtube-clone.now.sh](here) to view
+Click [here](https://youtube-clone.now.sh) to view
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
